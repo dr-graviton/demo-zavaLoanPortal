@@ -1,0 +1,17 @@
+# Windows-based Copilot Setup Steps for .NET tasks
+# Note: Windows runners have firewall limitations that may affect some network operations
+# Use this workflow for .NET projects that require Windows-specific tooling
+
+name: "Copilot Setup Step (Windows)"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  copilot-setup-steps:
+    runs-on: windows-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
