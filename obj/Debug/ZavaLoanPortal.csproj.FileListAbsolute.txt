@@ -1,0 +1,6 @@
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\bin\ZavaLoanPortal.dll
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\bin\ZavaLoanPortal.pdb
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\obj\Debug\ZavaLoanPortal.csproj.AssemblyReference.cache
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\obj\Debug\ZavaLoanPortal.csproj.CoreCompileInputs.cache
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\obj\Debug\ZavaLoanPortal.dll
+D:\a\demo-zavaLoanPortal\demo-zavaLoanPortal\obj\Debug\ZavaLoanPortal.pdb
